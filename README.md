@@ -1,1 +1,1 @@
-Just an example implementation of piont clouds in blender through python scripting
+Just an example implementation of point clouds in blender via python scripting
